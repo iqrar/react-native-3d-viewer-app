@@ -22,5 +22,5 @@ This app is running on my credentials. Please replace with your credentials for 
 ## Result
 
 
-![alt text](screenshots/01.png)  ![alt text](screenshots/02.png) ![alt text](screenshots/3.png) ![alt text](screenshots/submit.png) ![alt text](screenshots/5.png)  ![alt text](screenshots/6.png) ![alt text](screenshots/7.png) 
+![alt text](screenshots/01.png)  ![alt text](screenshots/02.png) ![alt text](screenshots/3.png) ![alt text](screenshots/submit.png) ![alt text](screenshots/5.png)  ![alt text](screenshots/6 (1).png) ![alt text](screenshots/7.png) 
 
